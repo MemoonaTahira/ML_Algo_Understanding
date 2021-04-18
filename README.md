@@ -1,4 +1,4 @@
-# ML_Algo
+Machine Learning Algorithms Understanding
 
 
 This repository contains a from scratch implementation of different machine learning models.
