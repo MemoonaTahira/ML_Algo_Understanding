@@ -8,6 +8,7 @@ Currently:
 
 <pre> ML_Algo
   ┬ supervised learning 
-  ├ unsupervised learning: KNN using randomly generated data points with visualizations during the clustering process
+  ├ unsupervised learning: 
+    - KNN using randomly generated data points with visualizations during the clustering process
   
 </pre> 
